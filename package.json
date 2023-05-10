@@ -1,0 +1,44 @@
+{
+  "name": "CTF_vue",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^29.0.0",
+    "@ckeditor/ckeditor5-vue2": "^1.0.5",
+    "@devexpress/analytics-core": "^22.2.4",
+    "@mdi/font": "^5.9.55",
+    "@nuxtjs/auth-next": "^5.0.0-1667386184.dfbbb54",
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/recaptcha": "^1.1.1",
+    "cookie-cutter": "^0.2.0",
+    "core-js": "^3.25.3",
+    "devexpress-reporting": "^22.2.4",
+    "devextreme": "^22.1.6",
+    "devextreme-vue": "22.1.6",
+    "exceljs": "^4.3.0",
+    "file-saver": "^2.0.5",
+    "jquery": "^3.6.3",
+    "jspdf": "^2.5.1",
+    "moment": "^2.29.4",
+    "nuxt": "^2.15.8",
+    "vue": "^2.7.10",
+    "vue-core-image-upload": "^2.4.13",
+    "vue-datetime-js": "^1.2.2",
+    "vue-recaptcha": "^2.0.3",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10",
+    "vue-toastify": "^1.8.1",
+    "vuetify": "^2.6.10"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.3",
+    "webpack": "^4.46.0"
+  }
+}
